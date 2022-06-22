@@ -1,13 +1,11 @@
 /**
- * @name VSC Cord
- * @version 1.4
- * @description Theme based on Visual Studio Code design. Credit to userMacieG#7591 for allowing me to use stuff from his Discord.tv theme.
- * @author Xyhlo#9766
+ * @name discarro
+ * @version 1.0
+ * @description pretty colors
+ * @author carro#0001
 */
 /* USRBG */
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css");
-/* SUPPORTERS */
-@import url('https://userMacieG.github.io/betterdiscord/supporters.css');
 /* FONT */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800&display=swap');
 
